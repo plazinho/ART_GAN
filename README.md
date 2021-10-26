@@ -1,4 +1,8 @@
 ## Art generator (GAN)
+### This project was made by:
+- https://github.com/plazinho
+- https://github.com/IlyaGaluzinskiy
+- https://github.com/aabdysheva
 
 ### Generative adversarial Network for creating new 'art' pictures, built using PyTorch
 - Dataset - "Best Artworks of All Time" https://www.kaggle.com/ikarus777/best-artworks-of-all-time
