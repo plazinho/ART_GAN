@@ -6,7 +6,9 @@
 
 ### Generative adversarial Network for creating new 'art' pictures, built using PyTorch
 - Dataset - ["Best Artworks of All Time"](https://www.kaggle.com/ikarus777/best-artworks-of-all-time)
-- GAN is based on the Impressionism and Post-Impressionism artworks
+- GAN is based on the Impressionism and Post-Impressionism artworks (about ~2400 images)
+- All images were resized to 64x64 resolution
+- Training for 150 epochs on [Google Colab](https://colab.research.google.com/) took approximately 3 hours 
 - [Super-resolution](https://github.com/idealo/image-super-resolution) was applied to chosen pictures (result of GAN work):
 
 ![x4](https://user-images.githubusercontent.com/88561819/138857190-12075e94-2169-4462-ac61-7dfc69be20bf.jpg)
