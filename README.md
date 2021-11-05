@@ -20,3 +20,9 @@
   ___-> 4 blocks of [Conv2d -> BatchNorm2d -> LeakyReLU activation] ->___
   
   ___-> Conv2d -> Tanh activation -> Generated images with a shape [3, 64, 64]___
+  
+### Generated images on 180th epoch
+![180](https://github.com/plazinho/ART_GAN/blob/main/images_gifs/generated-images-0180.png)  
+  
+### Generated images over 180 epochs
+![gif](https://github.com/plazinho/ART_GAN/blob/main/images_gifs/epochs_gif.gif)
