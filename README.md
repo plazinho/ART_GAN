@@ -26,3 +26,7 @@
   
 ### Generated images over 180 epochs
 ![gif](https://github.com/plazinho/ART_GAN/blob/main/images_gifs/epochs_gif.gif)
+
+### Generated images processed with ISR model
+![x4-1](https://github.com/plazinho/ART_GAN/blob/main/images_gifs/x4-1.jpg)
+![x4-2](https://github.com/plazinho/ART_GAN/blob/main/images_gifs/x4-2.jpg)
